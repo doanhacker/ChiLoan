@@ -32,4 +32,5 @@ document.querySelector(".content").onclick=()=>{
 document.querySelectorAll("music").onclick=()=>{
     document.querySelector("background-music").hidden=true
 }
+const audioPlayer = document.getElementById('audioPlayer');
     
